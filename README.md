@@ -19,3 +19,8 @@ To use:
 1. Select the folders you want to erase (you can only erase subfolders in the same folder at once) in the pop-up dialog.
 2. Click the "Open" button.
 3. Empty the trash.
+
+To update:
+1. Go through install steps 1-2.
+2. Delete Folder Eraser from your Full Disk Access preferences list.
+3. Re-enable full disk access for Folder Eraser.
