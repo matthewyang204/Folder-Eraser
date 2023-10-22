@@ -16,7 +16,6 @@ To install:
 
 To use:
 
-1. Select the folders you want to erase (you can only erase subfolders in the same folder at once).
-2. Making sure not to deselect the folders, press Command + Space to bring up Spotlight Search.
-3. Type "Folder Eraser" and hit Enter.
-4. Empty the trash.
+1. Select the folders you want to erase (you can only erase subfolders in the same folder at once) in the pop-up dialog.
+2. Click the "Open" button.
+3. Empty the trash.
