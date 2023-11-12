@@ -6,7 +6,7 @@ Requirements: macOS 12 (Monterey) or later
 Latest version: 1.0
 
 Download it here:
-https://github.com/matthewyang204/Folder-Eraser/releases/download/1.1/Install.Folder.Eraser.1.1.dmg
+https://github.com/matthewyang204/Folder-Eraser/releases/download/1.1.1/Install.Folder.Eraser.1.1.dmg
 
 To install:
 
